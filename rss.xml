@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Atomic Sound L.L.C.]]></title>
         <description><![CDATA[Atomic Sound L.L.C.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/atomic-sound-l-l-c/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 19:53:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Jan 2016 20:00:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/atomic-sound-l-l-c/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f58b0c2-b9ac-47c1-ae9d-fdedf6f23685.JPG">]]></description>
-            <link>undefinedace8d377-0aac-4c75-871e-dbf0de4c646d/index.html</link>
+            <link>https://thegrid.ai/atomic-sound-l-l-c/ace8d377-0aac-4c75-871e-dbf0de4c646d/index.html</link>
             <guid isPermaLink="false">ace8d377-0aac-4c75-871e-dbf0de4c646d</guid>
-            <pubDate>Sun, 10 Jan 2016 19:52:59 GMT</pubDate>
+            <pubDate>Sun, 10 Jan 2016 19:59:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
