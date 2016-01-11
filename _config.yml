@@ -1,6 +1,6 @@
 name: Atomic Sound L.L.C.
 favicon: null
-layout_spectrum: 0.3048
+layout_spectrum: 0.6778
 typography_spectrum: 0.64564
 title: Atomic Sound L.L.C.
 cta:
@@ -22,7 +22,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.9375
+  brandStrength: 0.8125
   lightness: 0.25
   saturation: 0.75
   rhythmicContrast: 0.5
