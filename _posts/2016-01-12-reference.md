@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-12T05:15:43.610Z'
-dateModified: '2016-01-12T05:15:39.144Z'
+datePublished: '2016-01-12T05:26:38.426Z'
+dateModified: '2016-01-12T05:26:31.667Z'
 title: REFERENCE
 author: []
 sourcePath: _posts/2016-01-12-reference.md
@@ -24,16 +24,13 @@ _type: Article
 ---
 Al McAvoy - Scope of work
 
-Chief  engineer for extraordinary events
+Chief  engineer for special events
 
 * [Common Ground Music Festival][0] - Lansing MI
 * [Unity Festival][1] - Muskegon MI
 * [Michigan Irish Music Festival][2]- Muskegon MI
 * [Live Arts / Grand Rapids Symphony][3]
 * [Rythym & Dunes Summer Concerts][4]-Ludington MI
-
-Front of house engineer for touring acts.
-
 * [The Verve Pipe][5]
 * [Domestic Problems][6]
 
