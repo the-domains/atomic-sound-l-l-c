@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-12T05:26:38.426Z'
-dateModified: '2016-01-12T05:26:31.667Z'
+datePublished: '2016-01-12T08:17:08.039Z'
+dateModified: '2016-01-12T08:16:55.441Z'
 title: REFERENCE
 author: []
 sourcePath: _posts/2016-01-12-reference.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 Al McAvoy - Scope of work
 
-Chief  engineer for special events
+Sound  production engineer for live events
 
 * [Common Ground Music Festival][0] - Lansing MI
 * [Unity Festival][1] - Muskegon MI
