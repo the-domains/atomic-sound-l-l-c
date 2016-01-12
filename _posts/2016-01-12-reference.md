@@ -6,25 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-12T05:02:48.397Z'
-dateModified: '2016-01-12T05:02:25.732Z'
+datePublished: '2016-01-12T05:10:36.463Z'
+dateModified: '2016-01-12T05:10:29.827Z'
 title: REFERENCE
 author: []
+sourcePath: _posts/2016-01-12-reference.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-12-reference.md
-published: true
 url: reference/index.html
 _type: Article
 
 ---
 Al McAvoy - Scope of work
 
-Chief Monitor engineer for extraordinary events
+Chief  engineer for extraordinary events
 
 * [Common Ground Music Festival][0] - Lansing MI
 * [Unity Festival][1] - Muskegon MI
