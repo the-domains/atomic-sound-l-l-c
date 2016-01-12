@@ -1,0 +1,44 @@
+---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-01-12T05:02:48.397Z'
+dateModified: '2016-01-12T05:02:25.732Z'
+title: REFERENCE
+author: []
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+sourcePath: _posts/2016-01-12-reference.md
+published: true
+url: reference/index.html
+_type: Article
+
+---
+Al McAvoy - Scope of work
+
+Chief Monitor engineer for extraordinary events
+
+* [Common Ground Music Festival][0] - Lansing MI
+* [Unity Festival][1] - Muskegon MI
+* [Michigan Irish Music Festival][2]- Muskegon MI
+* [Live Arts / Grand Rapids Symphony][3]
+
+Front of house engineer for touring acts.
+
+* [The Verve Pipe][4]
+* [Domestic Problems][5]
+
+[0]: http://www.commongroundfest.com/
+[1]: http://unitymusicfestival.com/
+[2]: https://www.michiganirish.org/
+[3]: http://www.grsymphony.org/live-arts
+[4]: http://www.thevervepipe.com/
+[5]: https://www.facebook.com/DomesticProblems/
