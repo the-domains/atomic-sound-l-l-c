@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T18:06:13.828Z'
-dateModified: '2016-01-15T18:06:13.392Z'
+datePublished: '2016-01-15T18:17:31.917Z'
+dateModified: '2016-01-15T18:17:16.318Z'
 title: WORK
 author: []
 sourcePath: _posts/2016-01-12-reference.md
@@ -26,7 +26,7 @@ Al McAvoy - Scope of work
 
 Sound production mix engineer for the following clients:
 
-Holland Symphony [/'Pops at the Piper'][0] - Holland, MI
+['Pops at the Piper'][0] - Holland, MI
 
 [Common Ground Music Festival][1] - Lansing, MI
 
