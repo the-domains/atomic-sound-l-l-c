@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T18:30:32.478Z'
-dateModified: '2016-01-15T18:25:20.785Z'
+datePublished: '2016-01-15T18:30:32.752Z'
+dateModified: '2016-01-15T18:30:32.415Z'
 title: WORK
 author: []
 sourcePath: _posts/2016-01-12-reference.md
