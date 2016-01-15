@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T18:06:12.868Z'
+datePublished: '2016-01-15T18:06:12.958Z'
 dateModified: '2016-01-15T18:06:10.403Z'
 title: WORK
 author: []
