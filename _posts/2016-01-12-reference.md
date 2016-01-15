@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T18:30:32.770Z'
-dateModified: '2016-01-15T18:30:32.478Z'
+datePublished: '2016-01-15T18:36:15.825Z'
+dateModified: '2016-01-15T18:36:13.898Z'
 title: WORK
 author: []
 sourcePath: _posts/2016-01-12-reference.md
@@ -26,27 +26,28 @@ Al McAvoy - Scope of work
 
 Sound production mix engineer for the following clients:
 
-['Pops at the Piper'][0] - Holland, MI
+[Holland Symphony][0] / ['Pops at the Piper'][1] - Holland, MI
 
-[Common Ground Music Festival][1] - Lansing, MI
+[Common Ground Music Festival][2] - Lansing, MI
 
-[Unity Festival][2] - Muskegon, MI
+[Unity Festival][3] - Muskegon, MI
 
-[Michigan Irish Music Festival][3] - Muskegon, MI
+[Michigan Irish Music Festival][4] - Muskegon, MI
 
-[Live Arts / Grand Rapids Symphony][4]
+[Live Arts / Grand Rapids Symphony][5]
 
-[Rhythm & Dunes Summer Concerts][5] - Ludington, MI
+[Rhythm & Dunes Summer Concerts][6] - Ludington, MI
 
-[Aquinas College][6] - Grand Rapids, MI
+[Aquinas College][7] - Grand Rapids, MI
 
-[The Verve Pipe][7]
+[The Verve Pipe][8]
 
-[0]: http://www.hollandsentinel.com/article/20150610/entertainmentlife/150619986
-[1]: http://www.commongroundfest.com/
-[2]: http://unitymusicfestival.com/
-[3]: https://www.michiganirish.org/
-[4]: http://www.grsymphony.org/live-arts
-[5]: http://www.visitludington.com/stories/rhythm__dunes_summer_concert_series
-[6]: https://www.aquinas.edu/
-[7]: http://www.thevervepipe.com/
+[0]: https://www.hollandsymphony.org/events/httphollandsymphony-tix-comschedule-aspxorgnum4409/
+[1]: http://www.hollandsentinel.com/article/20150610/entertainmentlife/150619986
+[2]: http://www.commongroundfest.com/
+[3]: http://unitymusicfestival.com/
+[4]: https://www.michiganirish.org/
+[5]: http://www.grsymphony.org/live-arts
+[6]: http://www.visitludington.com/stories/rhythm__dunes_summer_concert_series
+[7]: https://www.aquinas.edu/
+[8]: http://www.thevervepipe.com/
